@@ -1,0 +1,2050 @@
+{
+  "sources": [
+    {
+      "id": "builtin-2024",
+      "year": 2024,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2024-questions-01.jpg"
+        },
+        {
+          "path": "assets/2024-questions-02.jpg"
+        },
+        {
+          "path": "assets/2024-questions-03.jpg"
+        },
+        {
+          "path": "assets/2024-questions-04.jpg"
+        },
+        {
+          "path": "assets/2024-questions-05.jpg"
+        },
+        {
+          "path": "assets/2024-questions-06.jpg"
+        },
+        {
+          "path": "assets/2024-questions-07.jpg"
+        },
+        {
+          "path": "assets/2024-questions-08.jpg"
+        },
+        {
+          "path": "assets/2024-questions-09.jpg"
+        },
+        {
+          "path": "assets/2024-questions-10.jpg"
+        },
+        {
+          "path": "assets/2024-questions-11.jpg"
+        },
+        {
+          "path": "assets/2024-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2024-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2023",
+      "year": 2023,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2023-questions-01.jpg"
+        },
+        {
+          "path": "assets/2023-questions-02.jpg"
+        },
+        {
+          "path": "assets/2023-questions-03.jpg"
+        },
+        {
+          "path": "assets/2023-questions-04.jpg"
+        },
+        {
+          "path": "assets/2023-questions-05.jpg"
+        },
+        {
+          "path": "assets/2023-questions-06.jpg"
+        },
+        {
+          "path": "assets/2023-questions-07.jpg"
+        },
+        {
+          "path": "assets/2023-questions-08.jpg"
+        },
+        {
+          "path": "assets/2023-questions-09.jpg"
+        },
+        {
+          "path": "assets/2023-questions-10.jpg"
+        },
+        {
+          "path": "assets/2023-questions-11.jpg"
+        },
+        {
+          "path": "assets/2023-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2023-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2022",
+      "year": 2022,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2022-questions-01.jpg"
+        },
+        {
+          "path": "assets/2022-questions-02.jpg"
+        },
+        {
+          "path": "assets/2022-questions-03.jpg"
+        },
+        {
+          "path": "assets/2022-questions-04.jpg"
+        },
+        {
+          "path": "assets/2022-questions-05.jpg"
+        },
+        {
+          "path": "assets/2022-questions-06.jpg"
+        },
+        {
+          "path": "assets/2022-questions-07.jpg"
+        },
+        {
+          "path": "assets/2022-questions-08.jpg"
+        },
+        {
+          "path": "assets/2022-questions-09.jpg"
+        },
+        {
+          "path": "assets/2022-questions-10.jpg"
+        },
+        {
+          "path": "assets/2022-questions-11.jpg"
+        },
+        {
+          "path": "assets/2022-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2022-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2021",
+      "year": 2021,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2021-questions-01.jpg"
+        },
+        {
+          "path": "assets/2021-questions-02.jpg"
+        },
+        {
+          "path": "assets/2021-questions-03.jpg"
+        },
+        {
+          "path": "assets/2021-questions-04.jpg"
+        },
+        {
+          "path": "assets/2021-questions-05.jpg"
+        },
+        {
+          "path": "assets/2021-questions-06.jpg"
+        },
+        {
+          "path": "assets/2021-questions-07.jpg"
+        },
+        {
+          "path": "assets/2021-questions-08.jpg"
+        },
+        {
+          "path": "assets/2021-questions-09.jpg"
+        },
+        {
+          "path": "assets/2021-questions-10.jpg"
+        },
+        {
+          "path": "assets/2021-questions-11.jpg"
+        },
+        {
+          "path": "assets/2021-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2021-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2020",
+      "year": 2020,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2020-questions-01.jpg"
+        },
+        {
+          "path": "assets/2020-questions-02.jpg"
+        },
+        {
+          "path": "assets/2020-questions-03.jpg"
+        },
+        {
+          "path": "assets/2020-questions-04.jpg"
+        },
+        {
+          "path": "assets/2020-questions-05.jpg"
+        },
+        {
+          "path": "assets/2020-questions-06.jpg"
+        },
+        {
+          "path": "assets/2020-questions-07.jpg"
+        },
+        {
+          "path": "assets/2020-questions-08.jpg"
+        },
+        {
+          "path": "assets/2020-questions-09.jpg"
+        },
+        {
+          "path": "assets/2020-questions-10.jpg"
+        },
+        {
+          "path": "assets/2020-questions-11.jpg"
+        },
+        {
+          "path": "assets/2020-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2020-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2019",
+      "year": 2019,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2019-questions-01.jpg"
+        },
+        {
+          "path": "assets/2019-questions-02.jpg"
+        },
+        {
+          "path": "assets/2019-questions-03.jpg"
+        },
+        {
+          "path": "assets/2019-questions-04.jpg"
+        },
+        {
+          "path": "assets/2019-questions-05.jpg"
+        },
+        {
+          "path": "assets/2019-questions-06.jpg"
+        },
+        {
+          "path": "assets/2019-questions-07.jpg"
+        },
+        {
+          "path": "assets/2019-questions-08.jpg"
+        },
+        {
+          "path": "assets/2019-questions-09.jpg"
+        },
+        {
+          "path": "assets/2019-questions-10.jpg"
+        },
+        {
+          "path": "assets/2019-questions-11.jpg"
+        },
+        {
+          "path": "assets/2019-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2019-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2018",
+      "year": 2018,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2018-questions-01.jpg"
+        },
+        {
+          "path": "assets/2018-questions-02.jpg"
+        },
+        {
+          "path": "assets/2018-questions-03.jpg"
+        },
+        {
+          "path": "assets/2018-questions-04.jpg"
+        },
+        {
+          "path": "assets/2018-questions-05.jpg"
+        },
+        {
+          "path": "assets/2018-questions-06.jpg"
+        },
+        {
+          "path": "assets/2018-questions-07.jpg"
+        },
+        {
+          "path": "assets/2018-questions-08.jpg"
+        },
+        {
+          "path": "assets/2018-questions-09.jpg"
+        },
+        {
+          "path": "assets/2018-questions-10.jpg"
+        },
+        {
+          "path": "assets/2018-questions-11.jpg"
+        },
+        {
+          "path": "assets/2018-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2018-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2017",
+      "year": 2017,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2017-questions-01.jpg"
+        },
+        {
+          "path": "assets/2017-questions-02.jpg"
+        },
+        {
+          "path": "assets/2017-questions-03.jpg"
+        },
+        {
+          "path": "assets/2017-questions-04.jpg"
+        },
+        {
+          "path": "assets/2017-questions-05.jpg"
+        },
+        {
+          "path": "assets/2017-questions-06.jpg"
+        },
+        {
+          "path": "assets/2017-questions-07.jpg"
+        },
+        {
+          "path": "assets/2017-questions-08.jpg"
+        },
+        {
+          "missing": true
+        },
+        {
+          "path": "assets/2017-questions-10.jpg"
+        },
+        {
+          "path": "assets/2017-questions-11.jpg"
+        },
+        {
+          "path": "assets/2017-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2017-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2016",
+      "year": 2016,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2016-questions-01.jpg"
+        },
+        {
+          "path": "assets/2016-questions-02.jpg"
+        },
+        {
+          "path": "assets/2016-questions-03.jpg"
+        },
+        {
+          "path": "assets/2016-questions-04.jpg"
+        },
+        {
+          "path": "assets/2016-questions-05.jpg"
+        },
+        {
+          "path": "assets/2016-questions-06.jpg"
+        },
+        {
+          "path": "assets/2016-questions-07.jpg"
+        },
+        {
+          "path": "assets/2016-questions-08.jpg"
+        },
+        {
+          "path": "assets/2016-questions-09.jpg"
+        },
+        {
+          "path": "assets/2016-questions-10.jpg"
+        },
+        {
+          "path": "assets/2016-questions-11.jpg"
+        },
+        {
+          "path": "assets/2016-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2016-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2015",
+      "year": 2015,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2015-questions-01.jpg"
+        },
+        {
+          "path": "assets/2015-questions-02.jpg"
+        },
+        {
+          "path": "assets/2015-questions-03.jpg"
+        },
+        {
+          "path": "assets/2015-questions-04.jpg"
+        },
+        {
+          "path": "assets/2015-questions-05.jpg"
+        },
+        {
+          "path": "assets/2015-questions-06.jpg"
+        },
+        {
+          "path": "assets/2015-questions-07.jpg"
+        },
+        {
+          "path": "assets/2015-questions-08.jpg"
+        },
+        {
+          "path": "assets/2015-questions-09.jpg"
+        },
+        {
+          "path": "assets/2015-questions-10.jpg"
+        },
+        {
+          "path": "assets/2015-questions-11.jpg"
+        },
+        {
+          "path": "assets/2015-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2015-answers-01.jpg"
+          }
+        ]
+      }
+    },
+    {
+      "id": "builtin-2014",
+      "year": 2014,
+      "name": "理科 検査問題",
+      "builtin": true,
+      "pages": [
+        {
+          "path": "assets/2014-questions-01.jpg"
+        },
+        {
+          "path": "assets/2014-questions-02.jpg"
+        },
+        {
+          "path": "assets/2014-questions-03.jpg"
+        },
+        {
+          "path": "assets/2014-questions-04.jpg"
+        },
+        {
+          "path": "assets/2014-questions-05.jpg"
+        },
+        {
+          "path": "assets/2014-questions-06.jpg"
+        },
+        {
+          "path": "assets/2014-questions-07.jpg"
+        },
+        {
+          "path": "assets/2014-questions-08.jpg"
+        },
+        {
+          "path": "assets/2014-questions-09.jpg"
+        },
+        {
+          "path": "assets/2014-questions-10.jpg"
+        },
+        {
+          "path": "assets/2014-questions-11.jpg"
+        },
+        {
+          "path": "assets/2014-questions-12.jpg"
+        }
+      ],
+      "answers": {
+        "pages": [
+          {
+            "path": "assets/2014-answers-01.jpg"
+          }
+        ]
+      }
+    }
+  ],
+  "entries": [
+    {
+      "id": "builtin-2024-1",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2024-2",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2024-3",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "天体",
+        "太陽・月・星の動き"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2024-4",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "蒸散",
+        "呼吸"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2024-5",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "水溶液",
+        "溶解度"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2024-6",
+      "builtin": true,
+      "source": "builtin-2024",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "力と運動",
+        "仕事とエネルギー"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-1",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-2",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-3",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "気象",
+        "湿度",
+        "雲のでき方"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-4",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "消化・吸収",
+        "人体"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-5",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "電気分解",
+        "イオン"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2023-6",
+      "builtin": true,
+      "source": "builtin-2023",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と回路",
+        "電力・発熱"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-1",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-2",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-3",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "地層",
+        "火山・岩石"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-4",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "遺伝"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-5",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "酸・アルカリ・中和",
+        "イオン"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2022-6",
+      "builtin": true,
+      "source": "builtin-2022",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "力と運動",
+        "仕事とエネルギー"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-1",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-2",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-3",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "気象",
+        "天気図"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-4",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "光合成"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-5",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "化学変化と質量"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2021-6",
+      "builtin": true,
+      "source": "builtin-2021",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と磁界"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-1",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-2",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-3",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "天体",
+        "太陽・月・星の動き"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-4",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "消化・吸収",
+        "人体"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-5",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "物質の性質",
+        "水溶液",
+        "溶解度"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2020-6",
+      "builtin": true,
+      "source": "builtin-2020",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と回路",
+        "電力・発熱"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-1",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-2",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-3",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "地震"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-4",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "生物の分類",
+        "生殖"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-5",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "酸化・還元",
+        "化学変化と質量"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2019-6",
+      "builtin": true,
+      "source": "builtin-2019",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "力と運動",
+        "仕事とエネルギー"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-1",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-2",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-3",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "地層",
+        "火山・岩石"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-4",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "蒸散",
+        "光合成"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-5",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "イオン",
+        "電池",
+        "電気分解"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2018-6",
+      "builtin": true,
+      "source": "builtin-2018",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と磁界",
+        "電流と回路"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-1",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-2",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-3",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "気象",
+        "天気図"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-4",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "消化・吸収",
+        "人体"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-5",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "化学変化と質量"
+      ],
+      "answer": "",
+      "incomplete": true,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2017-6",
+      "builtin": true,
+      "source": "builtin-2017",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "力と運動",
+        "仕事とエネルギー"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-1",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-2",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-3",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "天体",
+        "金星"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-4",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "生物の分類",
+        "遺伝"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-5",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "電気分解",
+        "酸・アルカリ・中和",
+        "イオン"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2016-6",
+      "builtin": true,
+      "source": "builtin-2016",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と回路",
+        "電力・発熱"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-1",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-2",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-3",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "地層",
+        "化石"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-4",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "光合成"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-5",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "化学変化と質量",
+        "酸化・還元"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2015-6",
+      "builtin": true,
+      "source": "builtin-2015",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "力と運動",
+        "仕事とエネルギー"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-1",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問1",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 1,
+          "crop": null
+        },
+        {
+          "page": 2,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-2",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問2",
+      "tags": [
+        "小問集合・総合"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 3,
+          "crop": null
+        },
+        {
+          "page": 4,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-3",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問3",
+      "tags": [
+        "地学",
+        "天体",
+        "太陽・月・星の動き"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 5,
+          "crop": null
+        },
+        {
+          "page": 6,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-4",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問4",
+      "tags": [
+        "生物",
+        "植物",
+        "遺伝"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 7,
+          "crop": null
+        },
+        {
+          "page": 8,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-5",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問5",
+      "tags": [
+        "化学",
+        "イオン",
+        "電池"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 9,
+          "crop": null
+        },
+        {
+          "page": 10,
+          "crop": null
+        }
+      ]
+    },
+    {
+      "id": "builtin-2014-6",
+      "builtin": true,
+      "source": "builtin-2014",
+      "number": "大問6",
+      "tags": [
+        "物理",
+        "電流と磁界",
+        "電流と回路"
+      ],
+      "answer": "",
+      "incomplete": false,
+      "parts": [
+        {
+          "page": 11,
+          "crop": null
+        },
+        {
+          "page": 12,
+          "crop": null
+        }
+      ]
+    }
+  ],
+  "summary": "11年分・問題131ページ・正答表11ページを収録。大問単位で選択できます。",
+  "report": [
+    "2017年度は9ページがリンク切れのため、大問5の印刷を無効にしています。",
+    "2025・2026年度は配信元のアクセス拒否により未収録です。PDFを入手して追加できます。"
+  ]
+}

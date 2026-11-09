@@ -1,0 +1,21 @@
+<!doctype html><html lang="ja"><meta charset="utf-8"><meta name="viewport" content="width=device-width, initial-scale=1">
+<title>都立入試 理科過去問</title>
+<style>
+*{box-sizing:border-box}body{margin:0;background:#f0f5f4;color:#16332f;font:16px/1.65 system-ui,sans-serif}header{background:#123c36;color:white;padding:24px max(20px,calc((100vw - 1040px)/2))}h1,h2{margin:0 0 10px}main{max-width:1080px;margin:auto;padding:20px}section{background:white;border:1px solid #d4e2df;border-radius:14px;padding:20px;margin-bottom:18px}label{display:inline-block;margin:4px}input,select,button{font:inherit;padding:5px 9px;border-radius:6px;border:1px solid #a3bcb6}button{background:#176454;color:white;cursor:pointer;margin:4px}button:disabled{opacity:.45;cursor:default}canvas{display:block;width:min(100%,700px);height:auto;touch-action:none;border:1px solid #bccdc9}li{margin-bottom:8px}#paper img{display:block;max-width:100%;max-height:245mm;object-fit:contain;object-position:left top}article{margin-bottom:10px;break-inside:avoid}details{margin:18px 0}summary{cursor:pointer;padding:12px;background:#dceae5;border-radius:8px}#paper{display:none}p{margin:6px 0}#status{min-height:2em;font-weight:600}small{color:#4c6861}
+@media print{#paper h1{display:none}@page{size:A4;margin:12mm}body{background:white;color:black}header,main{display:none!important}#paper{display:block}article{break-after:page}article:last-child{break-after:auto}}
+</style>
+<header><h1>都立入試 理科過去問</h1><p>単元で選んで、図表付きのプリントを作る</p></header>
+<main><p id="status" role="status"></p>
+<section><h2>収録済みの理科過去問</h2><p id="summary">資料一覧を読み込み中です。</p><p id="downloadReport"></p><p><small>正答の印刷では、選択した年度の公式正答表をまとめて出力します。</small></p></section><details id="editor"><summary>資料を追加・問題の範囲を調整</summary><section><h2>理科のPDFを追加</h2>
+<form id="upload"><label>年度 <input name="year" type="number" min="2014" max="2100" value="2026" required></label><label>検査問題PDF <input name="pdf" type="file" accept=".pdf,application/pdf" required></label><button>読み込む</button></form>
+<p><small>年度が同じPDFも別資料として登録されます。PDFと問題索引は、このブラウザに保存します。</small></p></section>
+<section><h2>2. 問題に単元を付ける</h2>
+<label>資料 <select id="source"></select></label><button id="prev">前へ</button><button id="next">次へ</button><span id="page"></span>
+<p>ページ上をドラッグして、問題文・図・選択肢を囲みます。ページ全体を使う場合はそのまま追加します。</p>
+<canvas id="canvas" hidden></canvas><button id="part">この範囲を追加</button><button id="reset">範囲をやり直す</button><span id="parts"></span>
+<form id="entry"><label>問題番号 <input name="number" placeholder="大問3 問2" required></label><label>単元 <input name="tags" placeholder="電流と回路、電力" required></label><label>正答 <input name="answer" placeholder="任意。正答表から転記"></label><button>問題を登録</button></form></section>
+</details><section><h2>単元で選んで印刷</h2>
+<label>年度 <select id="yearFilter"></select></label><label>単元 <select id="tagFilter"></select></label><ul id="results"></ul>
+<button id="questions">選んだ問題をA4印刷</button><button id="answers">選んだ問題の正答を印刷</button>
+<p><small>印刷画面で「PDFとして保存」も選べます。</small></p></section></main><div id="paper"></div>
+<script type="module" src="./app.js"></script></html>

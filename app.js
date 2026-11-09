@@ -1,5 +1,8 @@
 const $ = id => document.getElementById(id);
-const status = message => { $('status').textContent = message; };
+const status = message => {
+  $('status').textContent = message;
+  $('status').style.cssText = 'position:sticky;top:0;z-index:20;background:#fff3cf;padding:10px;white-space:pre-wrap';
+};
 const canvas = $('canvas');
 const selected = new Set();
 let bundled = {sources:[],entries:[],report:[]};
@@ -123,9 +126,17 @@ async function renderPage(pdf, pageNumber, scale) {
       ctx.fillText('このページは配信元のリンク切れで未取得です。',50,100);
       return output;
     }
+    const path = pdf.pages[pageNumber-1].path;
     const img = new Image();
-    img.src = pdf.pages[pageNumber-1].path;
-    await img.decode();
+    await new Promise((resolve, reject) => {
+      const timer = setTimeout(() => {
+        img.src = '';
+        reject(new Error('画像の読み込みが30秒を超えました。再度選択してください。 ' + path));
+      }, 30000);
+      img.onload = () => { clearTimeout(timer); resolve(); };
+      img.onerror = () => { clearTimeout(timer); reject(new Error('画像を読み込めません。GitHubの配置を確認してください。 ' + path)); };
+      img.src = path;
+    });
     const output = document.createElement('canvas');
     output.width = img.naturalWidth;
     output.height = img.naturalHeight;
@@ -211,9 +222,9 @@ async function run(control, action) {
   busy = true;
   document.querySelector('main').inert = true;
   control.disabled = true;
-  status('');
-  try { await action(); }
-  catch (error) { status(error.message || '処理に失敗しました。'); }
+  status('読み込み中です…');
+  try { await action(); if ($('status').textContent === '読み込み中です…') status('準備ができました。'); }
+  catch (error) { status(error.message || '処理に失敗しました。'); $('status').scrollIntoView({block:'start'}); }
   finally { control.disabled = false; busy = false; document.querySelector('main').inert = false; updateButtons(); }
 }
 
@@ -337,12 +348,40 @@ async function print(answers) {
   } finally {
     await Promise.all([...pdfs.values()].map(pdf => pdf.destroy()));
   }
-  window.print();
+  document.body.classList.add('print-preview');
+  $('printControls').hidden = false;
+  window.scrollTo(0,0);
 }
 
 $('yearFilter').onchange = $('tagFilter').onchange = updateList;
 $('questions').onclick = () => run($('questions'), () => print(false));
 $('answers').onclick = () => run($('answers'), () => print(true));
+
+const previewStyle = document.createElement('style');
+previewStyle.textContent = `
+@media screen {
+  body.print-preview header, body.print-preview main { display:none !important; }
+  body.print-preview #paper { display:block;max-width:800px;margin:20px auto;padding:20px;background:white; }
+  #printControls { position:sticky;top:0;background:#dceae5;padding:12px;text-align:center;z-index:30; }
+}
+@media print { #printControls { display:none !important; } }
+`;
+document.head.append(previewStyle);
+const printControls = document.createElement('div');
+printControls.id = 'printControls';
+printControls.hidden = true;
+const printNow = document.createElement('button');
+printNow.textContent = 'この内容を印刷 / PDF保存';
+printNow.onclick = () => window.print();
+const closePreview = document.createElement('button');
+closePreview.textContent = '問題一覧に戻る';
+closePreview.onclick = () => {
+  document.body.classList.remove('print-preview');
+  printControls.hidden = true;
+};
+printControls.append(printNow, closePreview);
+document.body.prepend(printControls);
+
 updateButtons();
 
 await run($('upload').querySelector('button'), async () => {
